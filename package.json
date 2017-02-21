@@ -1,5 +1,5 @@
 {
-  "name": "isemoji",
+  "name": "is-emoji",
   "version": "1.0.0",
   "description": "function to check if a string is an emoji",
   "main": "index.js",
